@@ -13,4 +13,4 @@ The hardware of gripper is illustrated in the following figure, which is consist
 The solidworks file is uploaded to the repository.
 
 ### Circuits Design
-Three components are controlled by one Arduino, and the circuit connection diagram is shown in the figure below.
+Three components are controlled by one Arduino, and the circuit connection diagram is shown in the figure below. Button 1 is connected to pin 2, pin 4 for button 2 and A0 (analog) for FSR.
