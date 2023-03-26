@@ -20,3 +20,9 @@ Three components are controlled by one Arduino, and the circuit connection diagr
 <p align="center">
   <img width="529" height="250" src="https://user-images.githubusercontent.com/113228076/227780935-18d8de6d-9982-45bf-8ff4-3adb17ec0216.png">
 </p>
+
+## Control System 
+
+<p align="center">
+  <img width="430" height="380" src="https://user-images.githubusercontent.com/113228076/227781067-7c1ad3fa-ce5a-44c0-ae3a-d6c2625b2c93.jpg">
+</p>
